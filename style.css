@@ -1,0 +1,32 @@
+body {
+  background-image: url(https://qph.fs.quoracdn.net/main-qimg-94170d85c83726360508af4c2feeb7cc);
+  text-align: center;
+}
+h1 {
+  background: rgb(196, 148, 231);
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 75px;
+  margin: 0px;
+  padding: 40px;
+  text-align: center;
+}
+h2 {
+  font-size: 50px;
+  padding: 5px;
+  margin: 0px;
+}
+h3 {
+  font-size: 30px;
+  margin: 0px;
+}
+h4 {
+  font-size: 15px;
+  margin: 15px;
+}
+table {
+  border: 2px solid black;
+  padding: 0px 30px;
+  display: inline-block;
+  background: white;
+}
